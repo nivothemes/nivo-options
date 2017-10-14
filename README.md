@@ -25,7 +25,7 @@ Genel Özellikler
 21. Sepette indirimli ürünlerin ana fiyatlarını gösterme
 22. Sepette ürünlerin kategorilerini gösterme
 23. Üyelik formunda İsim-Soyisim bilgisi alma
-24. Sepette eğer toplam tutar ücretsiz kargo tutarına yakında mesaj ile müşteriyi bilgilendirme
+24. Sepette eğer toplam tutar ücretsiz kargo tutarına yakınsa mesaj ile müşteriyi bilgilendirme
 25. Sepette ve ödeme formunda ücretsiz kargo aktifse diğer kargoları gizleme
 26. Sepette mağazadan teslim alacağım seçili ise kargo hesaplamayı gizleme
 27. Ödeme formunda E-mail adresi onaylama
@@ -38,6 +38,7 @@ Genel Özellikler
 34. Sık Sorulan Sorular modülü
 35. Müşteri Görüşleri modülü
 36. Tatil modülü
+37. İstenen ürünü yayından kaldırmadan satışa kapatma
 
 Planlanan Özellikler
 1. Üyelere özgü indirim tanımlama
